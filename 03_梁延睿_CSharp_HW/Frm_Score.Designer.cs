@@ -197,6 +197,7 @@ namespace _03_梁延睿_CSharp_HW
             this.button1.TabIndex = 15;
             this.button1.Text = "Highest / Lowest Score";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Frm_Score
             // 

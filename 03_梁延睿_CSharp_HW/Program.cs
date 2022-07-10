@@ -16,7 +16,7 @@ namespace _03_梁延睿_CSharp_HW
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Loan());
+            Application.Run(new Frm_POS());
         }
     }
 }
