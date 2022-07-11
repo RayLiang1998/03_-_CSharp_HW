@@ -53,18 +53,6 @@
     <Compile Include="Frm_Calculator.Designer.cs">
       <DependentUpon>Frm_Calculator.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_Guess.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Frm_Guess.Designer.cs">
-      <DependentUpon>Frm_Guess.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Frm_GuessIp.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Frm_GuessIp.Designer.cs">
-      <DependentUpon>Frm_GuessIp.cs</DependentUpon>
-    </Compile>
     <Compile Include="Frm_Hello.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,12 +76,6 @@
     </Compile>
     <Compile Include="Frm_OOXX.Designer.cs">
       <DependentUpon>Frm_OOXX.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Frm_Painter.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Frm_Painter.Designer.cs">
-      <DependentUpon>Frm_Painter.cs</DependentUpon>
     </Compile>
     <Compile Include="Frm_Panel.cs">
       <SubType>Form</SubType>
@@ -125,12 +107,6 @@
     <EmbeddedResource Include="Frm_Calculator.resx">
       <DependentUpon>Frm_Calculator.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_Guess.resx">
-      <DependentUpon>Frm_Guess.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Frm_GuessIp.resx">
-      <DependentUpon>Frm_GuessIp.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Frm_Hello.resx">
       <DependentUpon>Frm_Hello.cs</DependentUpon>
     </EmbeddedResource>
@@ -142,9 +118,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_OOXX.resx">
       <DependentUpon>Frm_OOXX.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Frm_Painter.resx">
-      <DependentUpon>Frm_Painter.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Panel.resx">
       <DependentUpon>Frm_Panel.cs</DependentUpon>
