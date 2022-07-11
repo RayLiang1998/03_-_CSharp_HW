@@ -17,13 +17,13 @@ namespace _03_梁延睿_CSharp_HW
             InitializeComponent();
         }
         String a, b, c, d;
-        int ca, cb, cc, cd, i = 120, j = 180, k = 320, l = 350, total;
+        int ca, cb, cc, cd, bb = 120, tt = 180, wi = 320, wh = 350, total;
 
         private void button1_Click(object sender, EventArgs e)
         {
             ca += 1;
-            a = "Beer x" + ca + ", NT$ " + ca * i +  "\n";
-            total = ca * i + cb * j + cc * k + cd * l;
+            a = "Beer x" + ca + ", NT$ " + ca * bb +  "\n";
+            total = ca * bb + cb * tt + cc * wi + cd * wh;
             label2.Text = "NT$ " + total;
             label1.Text = a + b + c + d;
         }
@@ -31,24 +31,24 @@ namespace _03_梁延睿_CSharp_HW
         private void button2_Click(object sender, EventArgs e)
         {
             cb += 1;
-            b = "Tequila x" + cb + ", NT$ " + cb * j + "\n";
-            total = ca * i + cb * j + cc * k + cd * l;
+            b = "Tequila x" + cb + ", NT$ " + cb * tt + "\n";
+            total = ca * bb + cb * tt + cc * wi + cd * wh;
             label2.Text = "NT$ " + total;
             label1.Text = a + b + c + d;
         }
         private void button3_Click(object sender, EventArgs e)
         {
             cc += 1;
-            c = "Wine x" + cc + ", NT$ " + cc * k +  "\n";
-            total = ca * i + cb * j + cc * k + cd * l;
+            c = "Wine x" + cc + ", NT$ " + cc * wi +  "\n";
+            total = ca * bb + cb * tt + cc * wi + cd * wh;
             label2.Text = "NT$ " + total;
             label1.Text = a + b + c + d;
         }
         private void button4_Click(object sender, EventArgs e)
         {
             cd += 1;
-            d = "Whisky x" + cd + ", NT$ " + cd * l + "\n";
-            total = ca * i + cb * j + cc * k + cd * l;
+            d = "Whisky x" + cd + ", NT$ " + cd * wh + "\n";
+            total = ca * bb + cb * tt + cc * wi + cd * wh;
             label2.Text = "NT$ " + total;
             label1.Text = a + b + c + d;
         }

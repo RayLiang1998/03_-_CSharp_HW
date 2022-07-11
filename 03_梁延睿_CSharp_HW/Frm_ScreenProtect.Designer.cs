@@ -45,6 +45,7 @@ namespace _03_梁延睿_CSharp_HW
             this.pictureBox1.Size = new System.Drawing.Size(438, 278);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+
             // 
             // timer1
             // 
