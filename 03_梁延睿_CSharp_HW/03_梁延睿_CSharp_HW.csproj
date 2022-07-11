@@ -95,6 +95,12 @@
     <Compile Include="Frm_Painter.Designer.cs">
       <DependentUpon>Frm_Painter.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Panel.Designer.cs">
+      <DependentUpon>Frm_Panel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_POS.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -139,6 +145,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Painter.resx">
       <DependentUpon>Frm_Painter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Panel.resx">
+      <DependentUpon>Frm_Panel.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_POS.resx">
       <DependentUpon>Frm_POS.cs</DependentUpon>
