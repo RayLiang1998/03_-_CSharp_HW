@@ -65,8 +65,8 @@ namespace _03_梁延睿_CSharp_HW
             // 
             this.splitContainer1.Panel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("splitContainer1.Panel2.BackgroundImage")));
             this.splitContainer1.Panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.splitContainer1.Size = new System.Drawing.Size(1133, 539);
-            this.splitContainer1.SplitterDistance = 304;
+            this.splitContainer1.Size = new System.Drawing.Size(1121, 539);
+            this.splitContainer1.SplitterDistance = 300;
             this.splitContainer1.TabIndex = 0;
             // 
             // button7
@@ -150,7 +150,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1133, 539);
+            this.ClientSize = new System.Drawing.Size(1121, 539);
             this.Controls.Add(this.splitContainer1);
             this.Name = "Frm_Panel";
             this.Text = "Frm_Panel";
