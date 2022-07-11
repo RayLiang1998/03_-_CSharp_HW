@@ -161,6 +161,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button1.Text = "O";
+                button1.ForeColor = Color.Green;
                 OX = false;
                 button1.Enabled = false;
                 OWin();
@@ -168,6 +169,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button1.Text = "X";
+                button1.ForeColor = Color.Red;
                 OX = true;
                 button1.Enabled = false;
                 XWin();
@@ -179,6 +181,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button2.Text = "O";
+                button2.ForeColor = Color.Green;
                 OX = false;
                 button2.Enabled = false;
                 OWin();
@@ -186,6 +189,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button2.Text = "X";
+                button2.ForeColor = Color.Red;
                 OX = true;
                 button2.Enabled = false;
                 XWin();
@@ -197,6 +201,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button3.Text = "O";
+                button3.ForeColor = Color.Green;
                 OX = false;
                 button3.Enabled = false;
                 OWin();
@@ -204,6 +209,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button3.Text = "X";
+                button3.ForeColor = Color.Red;
                 OX = true;
                 button3.Enabled = false;
                 XWin();
@@ -215,6 +221,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button4.Text = "O";
+                button4.ForeColor = Color.Green;
                 OX = false;
                 button4.Enabled = false;
                 OWin();
@@ -222,6 +229,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button4.Text = "X";
+                button4.ForeColor = Color.Red;
                 OX = true;
                 button4.Enabled = false;
                 XWin();
@@ -233,6 +241,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button5.Text = "O";
+                button5.ForeColor = Color.Green;
                 OX = false;
                 button5.Enabled = false;
                 OWin();
@@ -240,6 +249,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button5.Text = "X";
+                button5.ForeColor = Color.Red;
                 OX = true;
                 button5.Enabled = false;
                 XWin();
@@ -251,6 +261,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button6.Text = "O";
+                button6.ForeColor = Color.Green;
                 OX = false;
                 button6.Enabled = false;
                 OWin();
@@ -258,6 +269,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button6.Text = "X";
+                button6.ForeColor = Color.Red;
                 OX = true;
                 button6.Enabled = false;
                 XWin();
@@ -269,6 +281,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button7.Text = "O";
+                button7.ForeColor = Color.Green;
                 OX = false;
                 button7.Enabled = false;
                 OWin();
@@ -276,6 +289,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button7.Text = "X";
+                button7.ForeColor = Color.Red;
                 OX = true;
                 button7.Enabled = false;
                 XWin();
@@ -287,6 +301,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button8.Text = "O";
+                button8.ForeColor = Color.Green;
                 OX = false;
                 button8.Enabled = false;
                 OWin();
@@ -294,6 +309,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button8.Text = "X";
+                button8.ForeColor = Color.Red;
                 OX = true;
                 button8.Enabled = false;
                 XWin();
@@ -305,6 +321,7 @@ namespace _03_梁延睿_CSharp_HW
             if (OX == true)
             {
                 button9.Text = "O";
+                button9.ForeColor = Color.Green;
                 OX = false;
                 button9.Enabled = false;
                 OWin();
@@ -312,6 +329,7 @@ namespace _03_梁延睿_CSharp_HW
             else
             {
                 button9.Text = "X";
+                button9.ForeColor = Color.Red;
                 OX = true;
                 button9.Enabled = false;
                 XWin();

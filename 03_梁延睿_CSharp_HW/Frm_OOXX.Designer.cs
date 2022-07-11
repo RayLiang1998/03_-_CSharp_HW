@@ -44,6 +44,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button1
             // 
+            this.button1.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button1.Location = new System.Drawing.Point(93, 51);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 84);
@@ -53,6 +54,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button2
             // 
+            this.button2.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button2.Location = new System.Drawing.Point(215, 51);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 84);
@@ -62,6 +64,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button3
             // 
+            this.button3.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button3.Location = new System.Drawing.Point(341, 51);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(100, 84);
@@ -71,6 +74,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button4
             // 
+            this.button4.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button4.Location = new System.Drawing.Point(93, 154);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(100, 84);
@@ -80,6 +84,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button5
             // 
+            this.button5.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button5.Location = new System.Drawing.Point(215, 154);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(100, 84);
@@ -89,6 +94,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button6
             // 
+            this.button6.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button6.Location = new System.Drawing.Point(341, 154);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(100, 84);
@@ -98,6 +104,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button7
             // 
+            this.button7.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button7.Location = new System.Drawing.Point(93, 259);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(100, 84);
@@ -107,6 +114,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button8
             // 
+            this.button8.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button8.Location = new System.Drawing.Point(215, 259);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(100, 84);
@@ -116,6 +124,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button9
             // 
+            this.button9.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button9.Location = new System.Drawing.Point(341, 259);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(100, 84);
@@ -125,6 +134,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button10
             // 
+            this.button10.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button10.Location = new System.Drawing.Point(554, 126);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(170, 44);
@@ -135,6 +145,7 @@ namespace _03_梁延睿_CSharp_HW
             // 
             // button11
             // 
+            this.button11.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.button11.Location = new System.Drawing.Point(554, 194);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(170, 44);

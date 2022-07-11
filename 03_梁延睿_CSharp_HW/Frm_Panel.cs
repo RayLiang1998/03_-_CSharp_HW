@@ -100,5 +100,7 @@ namespace _03_梁延睿_CSharp_HW
             ox.FormBorderStyle = FormBorderStyle.None;
             ox.Show();
         }
+
+        
     }
 }

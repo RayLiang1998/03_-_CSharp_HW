@@ -38,6 +38,7 @@ namespace _03_梁延睿_CSharp_HW
             this.button7 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -128,6 +129,17 @@ namespace _03_梁延睿_CSharp_HW
             this.label2.TabIndex = 8;
             this.label2.Text = "Total: ";
             // 
+            // label3
+            // 
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label3.Font = new System.Drawing.Font("微軟正黑體", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label3.Location = new System.Drawing.Point(33, 46);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(309, 262);
+            this.label3.TabIndex = 9;
+            this.label3.Text = "Menu : ";
+            // 
             // Frm_POS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -142,6 +154,7 @@ namespace _03_梁延睿_CSharp_HW
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.label3);
             this.Name = "Frm_POS";
             this.Text = "Frm_POS";
             this.ResumeLayout(false);
@@ -159,5 +172,6 @@ namespace _03_梁延睿_CSharp_HW
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
     }
 }
